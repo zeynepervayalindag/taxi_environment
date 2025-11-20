@@ -16,6 +16,7 @@ BLM5027 Derin Pekiştirmeli Öğrenme dersi kapsamında öğrenme algoritmaları
     Toplam ödül, kaç denemenin başarısız olduğu, adım sayıları gibi performans metrikleri izlenir ve en iyi model bulunur.
 
 Bu not defteri oluşturulurken aşağıdaki kaynaklar kullanılmıştır:
+
         [1] A Q-learning implementation for OpenAIs Taxi-v3 environment
           https://github.com/woutervanheeswijk/taxi_environment
           
