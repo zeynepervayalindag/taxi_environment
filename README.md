@@ -14,6 +14,9 @@ BLM5027 Derin Pekiştirmeli Öğrenme dersi kapsamında öğrenme algoritmaları
     Böylece taksi doğrudan öğrenilmiş en iyi davranış modeliyle çalışabilir.
   Eğitim sürecinde:
     Toplam ödül, kaç denemenin başarısız olduğu, adım sayıları gibi performans metrikleri izlenir ve en iyi model bulunur.
+<img width="592" height="455" alt="indir" src="https://github.com/user-attachments/assets/146c0cea-d9b4-4d89-9aaf-40a4de8c5049" />
+<img width="580" height="455" alt="indir (1)" src="https://github.com/user-attachments/assets/da236397-e007-47dd-aadd-b9e96d27e64b" />
+
 
 Bu not defteri oluşturulurken aşağıdaki kaynaklar kullanılmıştır:
 
